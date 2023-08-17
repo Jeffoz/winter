@@ -1,4 +1,4 @@
-CREATE TABLE manufacturer (
+ TABLE manufacturer (
 manufacturer_id INT NOT NULL AUTO_INCREMENT,
 manufacturer_name VARCHAR(100),
 CONSTRAINT pk_manufacturer PRIMARY KEY (manufacturer_id)
